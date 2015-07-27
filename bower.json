@@ -1,0 +1,29 @@
+{
+  "name": "tlab-icons",
+  "version": "0.0.0",
+  "authors": [
+    "anand.anand84@gmail.com"
+  ],
+  "description": "Icons for traderslab.in",
+  "main": "tlab-icons.html",
+  "keywords": [
+    "Polymer",
+    "IconSet",
+    "traderslab",
+    "svg",
+    "icons"
+  ],
+  "license": "MIT",
+  "homepage": "traderslab.in",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#~1.0.4"
+  }
+}
