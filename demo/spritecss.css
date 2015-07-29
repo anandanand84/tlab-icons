@@ -1,0 +1,71 @@
+.guest{
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -4px -44px;
+	width: 31px;
+	height: 31px;
+	margin:0 auto;
+}
+
+.shop-your-way-new {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -7px -84px;
+	width: 25px;
+	height: 32px;
+}
+
+.care {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -3px -124px;
+	width: 34px;
+	height: 32px;
+	margin:0 auto;
+}
+
+.care-selected {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -3px -164px;
+	width: 33px;
+	height: 31px;
+}
+
+.shop {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -4px -206px;
+	width: 34px;
+	height: 32px;
+	margin:0 auto;
+}
+
+.shop-selected {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -5px -246px;
+	width: 31px;
+	height: 27px;
+}
+
+.recap {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -7px -286px;
+	width: 26px;
+	height: 27px;
+	margin:0 auto;
+}
+
+.recap-selected {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -7px -327px;
+	width: 26px;
+	height: 27px;
+}
+
+.cart {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -5px -365px;
+	width: 29px;
+	height: 29px;
+	margin:0 auto;
+}
+
+/* SYW membership terms and conditions */
+#orderListIdTnC li {
+						width: 95%;
+}
+
+
+/* SYW membership terms and conditions end*/
+.cart-selected {
+	background: url('../images/MSOE-icon-sprite.png') no-repeat -5px -405px;
+	width: 29px;
+	height: 29px;
+}
